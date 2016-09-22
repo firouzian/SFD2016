@@ -1,0 +1,61 @@
+*:lang(fa) {
+  font-family: 'Scheherazade';
+  direction: rtl;
+} 
+
+#start-slide {
+  
+}
+
+#title-black {
+  background: black;
+  color: white;
+  font-size: 128px;
+}
+
+#title-white {
+  margin-top:500%;
+  vertical-align: center;
+  background: white;
+  color: black;
+  font-size: 128px;
+}
+
+#title-gray {
+  height:256px;
+  background: gray;
+  color: red;
+  font-size: 128px;
+}
+
+#name {
+  font-size: 128px;
+}
+
+.fa-text-title li{
+  font-size: 64px;
+  margin-top: 5%;
+  text-align: center;
+}
+
+#warn {
+  color: red;
+  font-size: 128px;
+  text-align: center;
+}
+
+#main-title {
+  font-size: 150px;
+}
+
+.fa-content p{
+  text-align: center;
+  margin-top: 5%;
+  font-size: 64px;
+}
+
+.img img{
+  -moz-transform:scale(0.1);
+  -webkit-transform:scale(0.1);
+  transform:scale(0.1);
+}
